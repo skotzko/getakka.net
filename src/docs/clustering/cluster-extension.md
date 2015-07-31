@@ -4,11 +4,9 @@ title: Akka.Cluster Overview
 ---
 
 
-* [ ] Clustering Overview
-    * [ ] How is Clustering different from Remoting?
-    * [ ] How a Cluster Forms
-        * [ ] Seed Nodes
-        * [ ] Gossip
-        * [ ] Leader Election
+* [ ] Cluster ActorSystem Extension
+    * [ ] Getting Cluster State
+    * [ ] Subscribing to Cluster Events
+    * [ ] Cluster Event Types
         * [ ] Reachability
-    * [ ] Location Transparency
+        * [ ] MemberUp / MemberDown
