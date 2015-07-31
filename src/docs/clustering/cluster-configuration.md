@@ -1,7 +1,13 @@
 ---
 layout: docs.hbs
-title: Akka.Cluster Overview
+title: Akka.Cluster Configuration
 ---
 
-# this is a h1
-## this is a h2
+# Akka.Cluster Configuration
+
+what categories do the config options fall into?
+
+## Essential Configuration Options
+router types
+routees
+nr of nodes
