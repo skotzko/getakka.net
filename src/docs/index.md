@@ -53,6 +53,11 @@ title: Akka.NET Documentation
 - [Remoting](Remoting)
 - [Serialization](Serialization)
 - [Akka I/O](IO)
+- Akka.Cluster
+    + [Clustering Overview](clustering/cluster-overview)
+    + [Cluster Routing](clustering/cluster-routing)
+    + [Cluster `ActorSystem` Extension](clustering/cluster-extension)
+    + [Cluster Configuration](clustering/cluster-configuration)
 
 ### Utilities
 - [EventBus](EventBus)
